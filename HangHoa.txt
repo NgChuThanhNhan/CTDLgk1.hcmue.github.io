@@ -1,0 +1,8 @@
+A001,Ao So Mi,Viet Nam,Trang,250000,01/01/2025,93
+Q001,Quan Jean,Campuchia,Xanh,450000,21/01/2025,46
+V001,Vay Dam,Trung Quoc,Do,650000,29/01/2025,20
+A002,Ao Thun,Thai Lan,Den,180000,14/02/2025,95
+G001,Giay Sneaker,Viet Nam,Trang,850000,03/03/2025,25
+D002,Do The Thao,Viet Nam,Xanh,50000,11/11/2025,10
+B004,Tui Xach,Canada,Hong,900000,11/11/2025,1001
+A003,Ao Khoac,Han Quoc,Vang,100000,11/11/2025,49
